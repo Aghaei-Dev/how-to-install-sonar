@@ -1,7 +1,3 @@
-<h3 align='center'>English</h3>
-
----
-
 ### 1. Install Java 17
 
 Download and install the Oracle [Java 17 JDK](https://download.oracle.com/java/17/archive/jdk-17.0.7_windows-x64_bin.msi) for Windows (x64 MSI Installer).
